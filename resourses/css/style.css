@@ -1,12 +1,18 @@
+body{
+  background-color: pink;
+}
 h1{
   font-size: 50px;
   color: white;
-  text-align: center;
   font-family: Verdana;
 }
 
-#link{
+.link{
   color: aquamarine;
   font-size: 16px;
-  text-align: center;
+}
+
+.copyright{
+  color: gray;
+  text-align: right;
 }
